@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506616403990",
+    "project_id": "studentverse-bc89e",
+    "storage_bucket": "studentverse-bc89e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506616403990:android:0c5902e5551cfb22a87d37",
+        "android_client_info": {
+          "package_name": "com.example.stud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzL1QSgSNi2YjiUEuZMWLMq7pYQw17rSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506616403990:android:4fa908a37c345c6ca87d37",
+        "android_client_info": {
+          "package_name": "com.example.studentverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzL1QSgSNi2YjiUEuZMWLMq7pYQw17rSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
