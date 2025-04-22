@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDqeNa2Ny0s7SlBQL8CkZD262BQ7Yr8hx8',
+    apiKey: 'AIzaSyDByDBBOTxhxRU3fjRqrY5lW1RfSuQhD6c',
     appId: '1:506616403990:web:75abd6330e33c463a87d37',
     messagingSenderId: '506616403990',
     projectId: 'studentverse-bc89e',
@@ -52,14 +52,14 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBzL1QSgSNi2YjiUEuZMWLMq7pYQw17rSk',
-    appId: '1:506616403990:android:0c5902e5551cfb22a87d37',
+    appId: 'AIzaSyBGZpbWH2RmlHUDAzNQ7NhfUL1dFF2J7bY',
     messagingSenderId: '506616403990',
     projectId: 'studentverse-bc89e',
     storageBucket: 'studentverse-bc89e.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD9tyvWUF3piYRUICYru8VPAXYntR_m6HU',
+    apiKey: 'AIzaSyBMCzHBeAp0dUcuV0z0UNNGn0fGhRdXk9U',
     appId: '1:506616403990:ios:04b3e2d49b1c8ffaa87d37',
     messagingSenderId: '506616403990',
     projectId: 'studentverse-bc89e',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDqeNa2Ny0s7SlBQL8CkZD262BQ7Yr8hx8',
+    apiKey: 'AIzaSyDtHDMGGtHFYR7xVdLRodMj2FYrk35M0bo',
     appId: '1:506616403990:web:f43a9e8210f1d5b6a87d37',
     messagingSenderId: '506616403990',
     projectId: 'studentverse-bc89e',
