@@ -1,10 +1,3 @@
-Perfect bhai 🔥
-Yeh lo — **professional level `README.md`** with 🎯 *badges*, proper structure, sections, and neat styling — jaise top GitHub repos me hota hai.
-Isko seedha apni repo ke `README.md` me daal do 👇
-
----
-
-```markdown
 <h1 align="center">🎓 StudentVerse</h1>
 
 <p align="center">
